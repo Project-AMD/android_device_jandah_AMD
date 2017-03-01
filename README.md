@@ -35,9 +35,11 @@ Camera  | 8MPx, LED Flash
         # xen0n
         # akhilnarang
         # Anik1199 (Anik_khan)
+        # Hikari-No-Tenshi
+        # abinyaazka
         # dheaapriandi (Dhea Mohammad Apriandi)
         # Edy Purwanto
         # Zainal Abidin
         # Fathurahman Ara
         # AMD Family
-        # all those who initially brought up Android M to MTK
+        # All the people who are contributing to the working CyanogenMod of MTK hardware
