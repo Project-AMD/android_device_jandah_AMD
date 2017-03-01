@@ -7,6 +7,9 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/jandah/AMD/device_AMD.mk)
 
+# Locales
+#PRODUCT_LOCALES := in_ID en_US
+
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := AMD
 PRODUCT_NAME := cm_AMD
