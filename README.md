@@ -1,4 +1,4 @@
-Generic MediaTek MT6582 device.
+For Generic MediaTek MT6582/92 device kernel 3.4.67.
 ==============
 
 Basic   | Spec Sheet
@@ -15,9 +15,9 @@ Camera  | 8MPx, LED Flash
 
 * Init
 
-        # repo init -u git://github.com/LineageOS/android.git -b cm-13.0
+        # repo init -u git://github.com/Project-AMD/android.git -b cm-13.0
         
-        # repo sync
+        # repo sync -f --force-sync --no-clone-bundle --no-tags
         
 * Build
 
